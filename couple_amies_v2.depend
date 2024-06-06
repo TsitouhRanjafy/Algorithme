@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1717509064 source:d:\back\java\couple_amies_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1717513378 source:d:\c\couple_amies_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
